@@ -26,4 +26,7 @@ pytest
 
 ## Автор
 
+Kodland
+Aktec
+Mukhlisa
 not_Kodland
