@@ -26,4 +26,6 @@ pytest
 
 ## Автор
 
-я
+Kodland
+Илья
+Mukhlisa
