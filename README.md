@@ -25,6 +25,5 @@ pytest
 ```
 
 ## Автор
-
 Aktec
 Mukhlisa
