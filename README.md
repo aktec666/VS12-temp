@@ -25,7 +25,6 @@ pytest
 ```
 
 ## Автор
-
 Kodland
 Илья
 Aktec
