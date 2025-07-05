@@ -26,4 +26,4 @@ pytest
 
 ## Автор
 
-floppafloppafloppafloppafloppafloppafloppa
+floppat
