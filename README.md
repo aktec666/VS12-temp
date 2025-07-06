@@ -30,3 +30,5 @@ Aktec
 Mukhlisa
 not_Kodland
 floppat
+
+add new text in readme
