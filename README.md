@@ -25,6 +25,8 @@ pytest
 ```
 
 ## Автор
+Aktec
+Mukhlisa
 Kodland
 Илья
 Aktec
